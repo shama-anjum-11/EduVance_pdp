@@ -4,4 +4,3 @@ pymupdf
 pandas
 numpy
 scikit-learn
-pickle5  # Alternative if pickle is needed separately
